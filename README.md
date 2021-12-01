@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Frontend+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Frontend+Developer.++++++++++)](https://git.io/typing-svg)
 
 <h2 align="center">Hi there 👋, I'm Kaustubh!</h2>
 
@@ -14,14 +14,11 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kmishal&theme=neon-palenight&hide_border=true)
 
-<!-- ## Repos -->
+## Repos
 
-<!-- [![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=fastapi-web-starter&show_owner=true)](https://github.com/shinokada/fastapi-web-starter)
+[![Gold Web scraper](https://github-readme-stats.vercel.app/api/pin/?username=kmishal&repo=gold_webscraper&show_owner=true)](https://github.com/kmishal/gold_webscraper)
 
-[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
-
-[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=awesome&show_owner=true)](https://github.com/shinokada/awesome) -->
-
+[![Dictionary Chrome Extension](https://github-readme-stats.vercel.app/api/pin/?username=kmishal&repo=dictionary-ext&show_owner=true)](https://github.com/kmishal/dictionary-ext)
 
 
 **Languages and Tools:**  
