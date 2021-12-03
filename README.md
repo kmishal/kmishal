@@ -18,7 +18,7 @@
 
 [![Gold Web scraper](https://github-readme-stats.vercel.app/api/pin/?username=kmishal&repo=gold_webscraper&show_owner=true)](https://github.com/kmishal/gold_webscraper)
 
-[![Dictionary Chrome Extension](https://github-readme-stats.vercel.app/api/pin/?username=kmishal&repo=dictionary-ext&show_owner=true)](https://github.com/kmishal/dictionary-ext)
+[![Dictionary Chrome Extension](https://github-readme-stats.vercel.app/api/pin/?username=kmishal&repo=dictionary-extension&show_owner=true)](https://github.com/kmishal/dictionary-ext)
 
 
 **Languages and Tools:**  
